@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "rating": "PG-13",
+    "year": 2010,
+    "budget": 160000000,
+    "gross": 829895144,
+    "poster": "https://example.com/inception.jpg",
+    "position": 1
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "rating": "PG-13",
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1004558444,
+    "poster": "https://example.com/dark_knight.jpg",
+    "position": 2
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "rating": "PG-13",
+    "year": 2016,
+    "budget": 2365000000,
+    "gross": 1111111111,
+    "poster": "https://example.com/interstellar.jpg",
+    "position": 3
+  },
+  {
+    "id": 5,
+    "title": "Avatar",
+    "rating": "PG-13",
+    "year": 2009,
+    "budget": 237000000,
+    "gross": 2847246203,
+    "poster": "https://example.com/avatar.jpg",
+    "position": 7
+  },
+  {
+    "id": 6,
+    "title": "The Shawshank Redemption",
+    "rating": "R",
+    "year": 1994,
+    "budget": 25000000,
+    "gross": 28817291,
+    "poster": "https://example.com/shawshank.jpg",
+    "position": 8
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "rating": "R",
+    "year": 1972,
+    "budget": 6000000,
+    "gross": 246120974,
+    "poster": "https://example.com/godfather.jpg",
+    "position": 9
+  },
+  {
+    "id": 8,
+    "title": "Pulp Fiction",
+    "rating": "R",
+    "year": 1994,
+    "budget": 8000000,
+    "gross": 213928762,
+    "poster": "https://example.com/pulp_fiction.jpg",
+    "position": 10
+  },
+  {
+    "id": 9,
+    "title": "Fight Club",
+    "rating": "R",
+    "year": 1999,
+    "budget": 63000000,
+    "gross": 101209702,
+    "poster": "https://example.com/fight_club.jpg",
+    "position": 11
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "rating": "PG-13",
+    "year": 1994,
+    "budget": 55000000,
+    "gross": 678226465,
+    "poster": "https://example.com/forrest_gump.jpg",
+    "position": 12
+  },
+  {
+    "id": "661c535a-341c-41a3-89d4-2e7d6709010b",
+    "title": "Gladiator",
+    "rating": "R",
+    "year": 2000,
+    "budget": 103000000,
+    "gross": 457640427,
+    "poster": "https://example.com/gladiator.jpg",
+    "position": 15
+  }
+]
