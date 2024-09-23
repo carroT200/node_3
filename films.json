@@ -17,7 +17,7 @@
     "budget": 185000000,
     "gross": 1004558444,
     "poster": "https://example.com/dark_knight.jpg",
-    "position": 2
+    "position": 4
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "budget": 2365000000,
     "gross": 1111111111,
     "poster": "https://example.com/interstellar.jpg",
-    "position": 3
+    "position": 5
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "budget": 237000000,
     "gross": 2847246203,
     "poster": "https://example.com/avatar.jpg",
-    "position": 7
+    "position": 9
   },
   {
     "id": 6,
@@ -47,7 +47,7 @@
     "budget": 25000000,
     "gross": 28817291,
     "poster": "https://example.com/shawshank.jpg",
-    "position": 8
+    "position": 10
   },
   {
     "id": 7,
@@ -57,7 +57,7 @@
     "budget": 6000000,
     "gross": 246120974,
     "poster": "https://example.com/godfather.jpg",
-    "position": 9
+    "position": 12
   },
   {
     "id": 8,
@@ -67,7 +67,7 @@
     "budget": 8000000,
     "gross": 213928762,
     "poster": "https://example.com/pulp_fiction.jpg",
-    "position": 10
+    "position": 13
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "budget": 63000000,
     "gross": 101209702,
     "poster": "https://example.com/fight_club.jpg",
-    "position": 11
+    "position": 14
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "budget": 55000000,
     "gross": 678226465,
     "poster": "https://example.com/forrest_gump.jpg",
-    "position": 12
+    "position": 15
   },
   {
     "id": "661c535a-341c-41a3-89d4-2e7d6709010b",
@@ -97,6 +97,36 @@
     "budget": 103000000,
     "gross": 457640427,
     "poster": "https://example.com/gladiator.jpg",
-    "position": 15
+    "position": 18
+  },
+  {
+    "id": "574bbff1-0fa6-4085-b3c2-431fc094a78a",
+    "title": "Avatar 3",
+    "rating": "PG-15",
+    "year": 2033,
+    "budget": 237005550000,
+    "gross": 2847246203,
+    "poster": "https://example.com/avatar.jpg",
+    "position": 11
+  },
+  {
+    "id": "9c63826d-5ddb-4a4c-851f-670db86dc5c8",
+    "title": "The Dark Knight 2222",
+    "rating": "PG-13",
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1004558444,
+    "poster": "https://example.com/dark_knight.jpg",
+    "position": 3
+  },
+  {
+    "id": "0bb5c617-a839-4b63-819b-344ab0401635",
+    "title": "The Dark Knight 2222",
+    "rating": "PG-13",
+    "year": 2008,
+    "budget": 185000000,
+    "gross": 1004558444,
+    "poster": "https://example.com/dark_knight.jpg",
+    "position": 2
   }
 ]

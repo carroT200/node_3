@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "email": "Dima@gmail.com",
+    "password": "$2a$10$somethinghashed",
+    "super": true
+  },
+  {
+    "id": "aca07fcc-8e71-4074-9f90-1ac6707e7bbb",
+    "email": "timka@gmail.com",
+    "password": "$2a$10$Rg653HaUh//6XpXvNnJHAOWt6W0FolBV.ggB7KJYL6DxFk1u0t9ru",
+    "super": false
+  },
+  {
+    "id": "dda3f87e-f14d-4c9e-8813-5e0c27dfc552",
+    "email": "admin@gmail.com",
+    "password": "$2a$10$tUkLTCL3BAwXw9aiyYJMV.fZMjqhNbO0oBfAgpFLhHC3aKVF2rEx2",
+    "super": true
+  }
+]
